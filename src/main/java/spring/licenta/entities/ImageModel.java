@@ -12,7 +12,6 @@ import javax.persistence.*;
 @Table(name="image_model")
 @AllArgsConstructor
 @Data
-@NoArgsConstructor
 @ToString
 public class ImageModel {
     @Id
